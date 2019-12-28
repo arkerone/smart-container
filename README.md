@@ -5,7 +5,7 @@
    [![npm version](https://badge.fury.io/js/smart-container.svg)](https://badge.fury.io/js/smart-container)
    [![codebeat badge](https://codebeat.co/badges/a63e9383-f9a6-4e41-9e97-7557a9114fc6)](https://codebeat.co/projects/github-com-arkerone-smart-container-master)
    [![Build Status](https://travis-ci.org/arkerone/smart-container.svg?branch=master)](https://travis-ci.org/arkerone/smart-container)
-   [![codecov](https://codecov.io/gh/arkerone/smart-container/branch/master/graph/badge.svg)](https://codecov.io/gh/arkerone/smart-container)
+   [![codecov](https://codecov.io/gh/arkerone/smart-container/branch/master/graph/badge.svg)](https://codecov.io/gh/arkerone/smart-container) [![Greenkeeper badge](https://badges.greenkeeper.io/arkerone/smart-container.svg)](https://greenkeeper.io/)
 
 
 
